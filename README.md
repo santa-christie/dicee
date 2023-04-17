@@ -1,10 +1,10 @@
-# dicee
+# Daiz
 
-A new Flutter project.
+Nothing but a dice app.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+In this app I've imported math library, defined a function and stuff.
 
 A few resources to get you started if this is your first Flutter project:
 
